@@ -1,16 +1,25 @@
-## Hi there 👋
+# David Alejandro Campo Betancur
 
-<!--
-**DavidAlejandroCampo/DavidAlejandroCampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology & Security Consultant based in Medellín, Colombia.
 
-Here are some ideas to get you started:
+I help organizations build, maintain, and secure their technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- Web development and API integrations
+- Process automation
+- CRM and business systems
+- Technical support and troubleshooting
+- Penetration testing, vulnerability assessments, and security audits
+
+## Tools
+
+**Development:** Python, JavaScript, SQL, HTML, CSS, REST APIs, Git
+
+**Systems:** Linux servers, web hosting, databases, CRM platforms
+
+**Security:** OWASP Top 10, Nmap, Burp Suite
+
+## Contact
+
+guardlight0598@gmail.com
